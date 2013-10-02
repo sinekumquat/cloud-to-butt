@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
 	"name": "Hipster to Other",
-	"version": "0.91",
-	"description": "Replaces the text 'hipster' with 'my internalized misconception of the youth'.",
+	"version": "0.92",
+	"description": "Replaces the text 'hipster' and 'millenial' with 'my internalized misconception of the youth'.",
 	"content_scripts": 
 	[
 		{
